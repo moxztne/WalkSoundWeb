@@ -64,8 +64,9 @@ header{
 
 body{
     /*background-image: url("../download.jpeg");*/
-    background-size: cover;
     /*background-color: #b2dfe6;*/
+    height: 100%;
+    padding-bottom: 65.5%;
 }
 
 .survey{
